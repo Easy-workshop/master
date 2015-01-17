@@ -1,1 +1,168 @@
-toto123
+<html>
+
+<head>
+<link rel="stylesheet" href="dist/css/bootstrap.css" />
+<!--<link rel="stylesheet" href="dist/css/mystyle.css" />-->
+
+</head>
+
+<body>
+
+
+
+   <div class="container header">
+       <div class="row header text-center">
+         <div class="col-xs-6">
+		     
+		          <img src="img/logo.gif" class="responsive" />
+		     
+		  </div> <!--col1--->
+          <div class="col-xs-6">
+		 
+		     <img src="img/animation.png" class="responsive"/>
+		 </div> <!--col2--->
+		</div><!-- row header-->
+   </div><!-- container header-->
+
+   
+    <div class="container titre ">
+	   <div class="row titre text-center">
+	      <div class="col-xs-6 mycol">
+	         <p>
+			 Bienvenue chez votre Cabinet CDM Consulting
+			 <p>
+				
+	      </div><!--col1---> 		   
+		     
+		<div class="col-xs-6">
+	          <p>
+ 			  <span class="span4"> 
+			  Adressez vous au spécialiste de la PME,PMI marocaine
+              Quel que soit la taille de votre entreprise 
+              et votre secteur d'activité, CDM Consulting réunit une équipe 
+			  de professionnels d’un haut niveau technique, qui vous permettront de 
+			  développer vos activités en toute sécurité.
+			 
+			  </p>
+	      </div><!--col2---> 		   
+		  	
+			
+			
+	      
+	  </div><!-- row titre-->
+	</div><!-- container titre-->
+    
+   
+   
+   
+   <div class="container menugauchecentredroit">
+	   <div class="row menugauchecentredroit">
+           <div class="col-xs-3">
+          <div class="navbar navbar-default-fixed-left">
+		  <div class="navbar-collapse">         
+		 <ul class="nav nav-pills nav-stacked navbar-collapse"> 
+               <li class="active"><a href="index.html"><span class="glyphicon glyphicon-home"></span> Accueil</a></li>
+			   <li><a href="creationentreprise.html"><span class="glyphicon glyphicon-list-alt"></span> Création d'Entreprise</a></li>
+			   <li><a href="dirigeantentreprise.html"> <span class="glyphicon glyphicon-user"></span> Dirigeant d'Entreprise</a></li>
+			   <li><a href="investiraumaroc.html"><span class="glyphicon glyphicon-road"></span> Investir au Maroc</a></li>
+			   <li><a href="econsultation.html"><span class="glyphicon glyphicon-retweet"></span> E-Consultation</a></li>
+			   <li><a href="contact.html"><span class="glyphicon glyphicon-envelope"></span> Contact</a></li>
+         </ul>
+</div><!--collapse-->
+		  </div><!--defualt nav-->
+		  </div><!--col1-->
+		   <div class="col-xs-6">
+              <div class="row nested-block1">
+			    <div class="col-xs-5 text-left">
+			    <p>
+				  Nous poursuivons un objectif unique : VOUS FAIRE GAGNER.
+                  Pour y parvenir, nous donnons du sens à vos chiffres et vous aidons à 
+				  accroître la performance de votre entreprise.
+				  </p>
+			    </div><!--fin premiere colonne-->
+				<div class="col-xs-7 text-left">
+			  <img src="img/logo.gif" class="responsive"/>
+			      </div><!--fin premiere colonne-->
+			   </div> <!--FIN ow nested-block1-->
+
+			   
+		  
+		  <div class="row nested-block1">
+			    <div class="col-xs-12">
+                <p> 
+				Grâce à Internet, le Cabinet CDM Consulting réputé pour la grande qualité de ses services couvrant l'essentiel des besoins des PME/PMI marocaines en matière : comptable, juridique, fiscale, sociale et organisationnelle, est encore plus proche de vous.
+                Notre nouveau défi : un service pluridisciplinaire via Internet
+                Notre portail est dédié aux chefs d'entreprise, qui aujourd'hui, attendent de l'Internet des contenus réactifs en adéquation avec leur réalité professionnelle.</p>
+			    </div><!--fin premiere colonne-->
+				
+			   </div> <!--FIN ow nested-block2-->
+
+               <img src="img/expansioncdm.jpg" class="responsive"/>
+
+
+		  </div><!--col2-->
+		    
+			<div class="col-xs-3">
+		  
+		     <div class="panel panel-success">
+		           <div class="panel-heading">
+			       Audit Fiscal
+				   </div><!--heading panel-->
+						<p>
+						orem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, orci sit amet rhoncus pretium, nisl massa tincidunt eros, a porta ex quam sed tellus. In maximus vehicula dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut condimentum interdum pulvinar. Vivamus aliquet auctor suscipit. Sed fringilla ante a erat molestie, et cursus lectus sollicitudin. Donec pretium sodales pellentesque.
+						</p>		    
+			</div><!--panel Audit Fiscal-->
+			
+		  <div class="panel panel-danger">
+		           <div class="panel-heading">
+			       Formation
+				   </div><!--heading panel-->
+						<p>
+						Ut efficitur hendrerit varius. Ut volutpat tincidunt augue non venenatis. Aliquam in scelerisque arcu, ac imperdiet risus. Duis libero erat, lacinia non aliquam sit amet, aliquet quis lacus. Suspendisse elementum risus ut vulputate porttitor. Vivamus fringilla ex at magna congue, at sollicitudin ligula malesuada. Praesent auctor at nibh vel molestie. Integer a mauris vitae tortor sollicitudin sagittis in sit amet felis.
+						</p>		    
+			</div><!--panel Audit FORMATION-->
+			
+             </div><!--col3-->
+   </div><!-- row menugauchecentredroit-->
+   </div><!-- container menu-->
+   
+   
+    <div class="container footer"
+	   <div class="row footer">
+	      <div class="col-xs">
+	        
+			 
+		           <ul class="list-inline"> 
+               <li><a href="index.html"><span class="glyphicon glyphicon-home"></span> Accueil</a></li>
+			   <li><a href="creationentreprise.html"><span class="glyphicon glyphicon-list-alt"></span> Création d'Entreprise</a></li>
+			   <li><a href="dirigeantentreprise.html"> <span class="glyphicon glyphicon-user"></span> Dirigeant d'Entreprise</a></li>
+			   <li><a href="investiraumaroc.html"><span class="glyphicon glyphicon-road"></span> Investir au Maroc</a></li>
+			   <li><a href="econsultation.html"><span class="glyphicon glyphicon-retweet"></span> E-Consultation</a></li>
+			   <li><a href="contact.html"><span class="glyphicon glyphicon-envelope"></span> Contact</a></li>
+         </ul>
+		    
+			
+			
+			
+	      </div><!--col1--->
+	  </div><!-- row footer-->
+	</div><!-- container footer-->
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+<script type="text/javascript" src="dist/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="dist/js/bootstrap.js"></script>
+   </body>
+</html>
